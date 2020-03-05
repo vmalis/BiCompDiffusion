@@ -1,5 +1,9 @@
 # BiCompDiffusion
 ## Bicomparmental model the diffusion with exchange
+
+ <p align="center">
+  <img width="505" height="355" src=/image/preview.png>
+</p>
  
 Mathematica notbook for bicompartmental model of the diffusion with exchange.
 More information can be found in the paper:
