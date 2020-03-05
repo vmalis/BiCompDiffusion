@@ -1,5 +1,5 @@
 # BiCompDiffusion
-## Bicomparmental model the diffusion with exchange
+## Bicomparmental model of the diffusion with exchange
 
  <p align="center">
   <img width="505" height="355" src=/image/preview.png>
